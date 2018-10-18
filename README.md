@@ -1,2 +1,0 @@
-# snake
-print("Hello World")
