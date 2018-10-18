@@ -1,1 +1,2 @@
 # snake
+print("Hello World")
